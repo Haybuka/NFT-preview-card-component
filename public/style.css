@@ -10928,7 +10928,7 @@ video {
 }
 
 .h-lgs{
-  height: 400px;
+  height: 380px;
 }
 
 .h-xls{
@@ -19144,7 +19144,7 @@ video {
 }
 
 .w-lgs{
-  width: 400px;
+  width: 380px;
 }
 
 .w-xls{
@@ -22235,7 +22235,7 @@ video {
   margin-right: auto;
   border-radius: 0.75rem;
   padding: 1rem;
-  width: 400px;
+  width: 380px;
   background-color:  hsl(216, 50%, 16%);
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
@@ -32591,7 +32591,7 @@ video {
   }
 
   .sm\:h-lgs{
-    height: 400px;
+    height: 380px;
   }
 
   .sm\:h-xls{
@@ -40807,7 +40807,7 @@ video {
   }
 
   .sm\:w-lgs{
-    width: 400px;
+    width: 380px;
   }
 
   .sm\:w-xls{
@@ -54119,7 +54119,7 @@ video {
   }
 
   .md\:h-lgs{
-    height: 400px;
+    height: 380px;
   }
 
   .md\:h-xls{
@@ -62335,7 +62335,7 @@ video {
   }
 
   .md\:w-lgs{
-    width: 400px;
+    width: 380px;
   }
 
   .md\:w-xls{
@@ -75647,7 +75647,7 @@ video {
   }
 
   .lg\:h-lgs{
-    height: 400px;
+    height: 380px;
   }
 
   .lg\:h-xls{
@@ -83863,7 +83863,7 @@ video {
   }
 
   .lg\:w-lgs{
-    width: 400px;
+    width: 380px;
   }
 
   .lg\:w-xls{
@@ -97175,7 +97175,7 @@ video {
   }
 
   .xl\:h-lgs{
-    height: 400px;
+    height: 380px;
   }
 
   .xl\:h-xls{
@@ -105391,7 +105391,7 @@ video {
   }
 
   .xl\:w-lgs{
-    width: 400px;
+    width: 380px;
   }
 
   .xl\:w-xls{

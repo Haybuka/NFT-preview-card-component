@@ -9,7 +9,7 @@ module.exports = {
       smallest:'30px',
       sms:'200px',
       mds : '300px',
-      lgs: '400px',
+      lgs: '380px',
       xls: '500px'
     },
     height: {
@@ -17,7 +17,7 @@ module.exports = {
       sms:'200px',
       fullv:'100%',
        mds : '300px',
-       lgs: '400px',
+       lgs: '380px',
        xls: '500px'
     },
     extend: {

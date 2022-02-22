@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
 @tailwind base;
 
 @tailwind components;
@@ -8,7 +9,7 @@
     @apply  rounded-xl cursor-pointer relative flex items-center justify-center;
 }
 .footer{
-    @apply pt-3 mt-4 my-2 flex items-center border-t border-secondary-200;
+    @apply py-6 mt-4 my-2 flex items-center border-t border-secondary-200;
 }
 .footer-img{
     @apply border rounded-full h-smallest w-smallest bg-secondary-100;

@@ -35,10 +35,9 @@ module.exports = {
           600 : 'hhsl(215, 32%, 27%)',
         }
       },
-      // fontFamily : {
-      //   primary :["'Barlow', sans-serif"],
-      //   secondary : ["'Fraunces', serif;"]
-      // }
+      fontFamily : {
+        primary :["'Outfit', sans-serif"]
+      }
     },
   },
   variants: {},

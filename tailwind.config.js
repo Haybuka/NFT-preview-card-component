@@ -5,6 +5,21 @@ module.exports = {
   },
   purge: [],
   theme: {
+    width: {
+      smallest:'30px',
+      sms:'200px',
+      mds : '300px',
+      lgs: '400px',
+      xls: '500px'
+    },
+    height: {
+      smallest:'30px',
+      sms:'200px',
+      fullv:'100%',
+       mds : '300px',
+       lgs: '400px',
+       xls: '500px'
+    },
     extend: {
       backgroundImage : theme => ({
         'imgEquili' : "url('../public/images/image-equilibrium.jpg')",

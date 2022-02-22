@@ -3,3 +3,25 @@
 @tailwind components;
 
 @tailwind utilities;
+
+.card-comp{
+    @apply  rounded-xl cursor-pointer relative flex items-center justify-center;
+}
+.footer{
+    @apply pt-3 mt-4 my-2 flex items-center border-t border-secondary-200;
+}
+.footer-img{
+    @apply border rounded-full h-smallest w-smallest bg-secondary-100;
+}
+.footer-text{
+    @apply mx-4 tracking-wider text-secondary-200;
+}
+.flex-prop{
+    @apply flex items-center;
+}
+.main-section{
+    @apply mt-10 mx-auto rounded-xl p-4 w-lgs bg-secondary-500 shadow shadow-md;
+}
+.equilibrium{
+    @apply text-lg font-bold text-secondary-100 cursor-pointer;
+}

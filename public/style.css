@@ -22182,7 +22182,6 @@ video {
 
 .card-comp{
   overflow: hidden;
-  font-family: 'Outfit', sans-serif;
   border-radius: 0.75rem;
   cursor: pointer;
   position: relative;
@@ -22192,7 +22191,6 @@ video {
 }
 
 .footer{
-  font-family: 'Outfit', sans-serif;
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
   margin-top: 1rem;
@@ -22207,7 +22205,6 @@ video {
 }
 
 .footer-img{
-  font-family: 'Outfit', sans-serif;
   border-width: 1px;
   border-radius: 9999px;
   height: 30px;
@@ -22218,7 +22215,6 @@ video {
 }
 
 .footer-text{
-  font-family: 'Outfit', sans-serif;
   margin-left: 1rem;
   margin-right: 1rem;
   letter-spacing: 0.05em;
@@ -22228,7 +22224,6 @@ video {
 }
 
 .flex-prop{
-  font-family: 'Outfit', sans-serif;
   display: flex;
   align-items: center;
 }
@@ -22247,7 +22242,6 @@ video {
 }
 
 .equilibrium{
-  font-family: 'Outfit', sans-serif;
   font-size: 1.125rem;
   font-weight: 700;
   --text-opacity: 1;
